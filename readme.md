@@ -27,7 +27,7 @@ To build the plugin, you will need:
     ```
 
 2.  Open the project in your IDE:
-   Open `DelphiPlugin.dpr`.
+    *   Open `DelphiPlugin.dpr`.
 
 3.  Build the project (Select **Release** configuration and **32-bit/x86** target)
 
@@ -59,5 +59,6 @@ Permission is hereby granted to use, modify, and distribute this SDK for the pur
 ---
 Copyright (c) 2001-2026 **Sergey Chubchenko (DotFix Software)**. All rights reserved.
 [www.vb-decompiler.org](https://www.vb-decompiler.org)
+
 
 
